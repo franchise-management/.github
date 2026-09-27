@@ -2,7 +2,7 @@
 name: ✨ 기능 추가
 about: 새로운 기능 또는 기능 개선을 요청합니다.
 title: "[FEAT] "
-labels: "feature"
+labels: "enhancement"
 assignees: ""
 ---
 
