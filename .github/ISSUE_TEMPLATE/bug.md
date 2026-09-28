@@ -1,3 +1,10 @@
+---
+name: 🐛 버그 제보 (Bug Fix)
+about: 시스템 동작 오류나 예외 발생 상황을 공유합니다.
+title: '[BUG] '
+labels: 'bug'
+assignees: ''
+---
 ## 👤 작성자
 
 * 이름: 
