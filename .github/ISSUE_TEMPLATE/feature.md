@@ -1,3 +1,10 @@
+---
+name: ✨ 기능 요청 (Feature)
+about: 새로운 기능 제안 또는 기존 기능 개선 이슈를 등록합니다.
+title: '[FEAT] '
+labels: 'enhancement'
+assignees: ''
+---
 ## 👤 작성자
 
 * 이름: 
